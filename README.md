@@ -77,5 +77,6 @@ Bem-vindo ao repositório de scripts Python úteis! Aqui você encontrará uma c
 
 - [request_girhub_status.py: Busca o status do Github e cria um arquivo de registro.](./request_girhub_status.py)
 - [check_domain_availability.py: Verifica a disponibilidade de um dominio utilizando o serviço WhoIs](./check_domain_availability.py)
+- [organize_files.py: organiza os documentos pela extenção](./organize_files.py)
 
 Sinta-se à vontade para contribuir ou sugerir melhorias! 😊
